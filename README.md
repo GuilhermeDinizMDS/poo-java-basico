@@ -23,3 +23,4 @@ Projeto em Java desenvolvido para demonstrar a aplicação prática de conceitos
 
 ### 📂 Estrutura do Projetos
 
+https://github.com/GuilhermeDinizMDS/poo-java-basico/tree/main/meu-projeto-java
